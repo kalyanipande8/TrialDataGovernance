@@ -1,0 +1,8 @@
+study_id,n_present,n_required,pct_compliance_docs_present,required_items
+STUDY-01,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-02,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-03,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-04,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-05,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-06,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
+STUDY-07,5,5,100.0,"electronic_signature_policy, access_control_policy, record_retention_policy, audit_trail_review_procedure, system_validation_documentation"
